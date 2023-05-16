@@ -1,2 +1,2 @@
-# I am Ramazan!
+# I am Nikita!
 print("My first Git program!!!")
